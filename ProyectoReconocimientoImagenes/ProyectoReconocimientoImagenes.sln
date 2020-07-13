@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego.DAL", "Juego.DAL\Juego.DAL.csproj", "{63B76FDF-ABC2-4B44-B0CE-5FBF9823FEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego.BL", "Juego.BL\Juego.BL.csproj", "{09070A4F-226D-4B2F-9492-BEE62BC2CF8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego.APP", "Juego.APP\Juego.APP.csproj", "{DCB02AE6-6AFE-4884-AA7E-EF232DD61805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B76FDF-ABC2-4B44-B0CE-5FBF9823FEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B76FDF-ABC2-4B44-B0CE-5FBF9823FEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B76FDF-ABC2-4B44-B0CE-5FBF9823FEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B76FDF-ABC2-4B44-B0CE-5FBF9823FEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09070A4F-226D-4B2F-9492-BEE62BC2CF8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09070A4F-226D-4B2F-9492-BEE62BC2CF8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09070A4F-226D-4B2F-9492-BEE62BC2CF8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09070A4F-226D-4B2F-9492-BEE62BC2CF8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB02AE6-6AFE-4884-AA7E-EF232DD61805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB02AE6-6AFE-4884-AA7E-EF232DD61805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB02AE6-6AFE-4884-AA7E-EF232DD61805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB02AE6-6AFE-4884-AA7E-EF232DD61805}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AA6D521-67BA-475D-A9F6-D07BE3647A4A}
+	EndGlobalSection
+EndGlobal
