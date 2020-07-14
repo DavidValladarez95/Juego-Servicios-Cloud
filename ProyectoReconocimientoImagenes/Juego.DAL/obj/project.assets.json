@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
       "projectName": "Juego.DAL",
-      "projectPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
+      "projectPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
       "packagesPath": "C:\\Users\\DANNY VALLADAREZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\obj\\",
+      "outputPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DANNY VALLADAREZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

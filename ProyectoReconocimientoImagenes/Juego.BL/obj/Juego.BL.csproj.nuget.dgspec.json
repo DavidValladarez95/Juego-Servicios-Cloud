@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj": {}
+    "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj": {
+    "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj",
+        "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj",
         "projectName": "Juego.BL",
-        "projectPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj",
+        "projectPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.BL\\Juego.BL.csproj",
         "packagesPath": "C:\\Users\\DANNY VALLADAREZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.BL\\obj\\",
+        "outputPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANNY VALLADAREZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj": {
-                "projectPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj"
+              "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj": {
+                "projectPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj": {
+    "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
         "projectName": "Juego.DAL",
-        "projectPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
+        "projectPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\Juego.DAL.csproj",
         "packagesPath": "C:\\Users\\DANNY VALLADAREZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANNY VALLADAREZ\\source\\repos\\ProyectoReconocimientoImagenes\\Juego.DAL\\obj\\",
+        "outputPath": "C:\\Users\\DANNY VALLADAREZ\\Documents\\GitHub\\Juego-Servicios-Cloud\\ProyectoReconocimientoImagenes\\Juego.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANNY VALLADAREZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
