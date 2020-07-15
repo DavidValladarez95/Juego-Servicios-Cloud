@@ -75,6 +75,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "FireSharp": "2.0.4",
           "Juego.DAL": "1.0.0"
         },
         "compile": {

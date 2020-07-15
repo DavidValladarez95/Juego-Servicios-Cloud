@@ -1,0 +1,4 @@
+C:\Users\DANNY VALLADAREZ\Documents\GitHub\Juego-Servicios-Cloud\ProyectoReconocimientoImagenes\Juego.BL\bin\Debug\netcoreapp3.1\Juego.DAL.dll
+C:\Users\DANNY VALLADAREZ\Documents\GitHub\Juego-Servicios-Cloud\ProyectoReconocimientoImagenes\Juego.BL\obj\Debug\netcoreapp3.1\Juego.BL.csprojAssemblyReference.cache
+C:\Users\DANNY VALLADAREZ\Documents\GitHub\Juego-Servicios-Cloud\ProyectoReconocimientoImagenes\Juego.BL\obj\Debug\netcoreapp3.1\Juego.BL.AssemblyInfoInputs.cache
+C:\Users\DANNY VALLADAREZ\Documents\GitHub\Juego-Servicios-Cloud\ProyectoReconocimientoImagenes\Juego.BL\obj\Debug\netcoreapp3.1\Juego.BL.AssemblyInfo.cs
